@@ -9,7 +9,7 @@ body {
 #main-photo {
   max-width: 25%;
   border: 0.5vw solid #d4a95d;
-  box-shadow: 3px 3px 12px #aaa;
+  /* box-shadow: 3px 3px 12px #aaa; */
 }
 
 #main-text {
