@@ -1,0 +1,24 @@
+body {
+  background-color: #fefdf8;
+}
+
+#main-border {
+  margin-bottom: 1.68em;
+}
+
+#main-photo {
+  max-width: 25%;
+  border: 5px solid #d4a95d;
+  box-shadow: 3px 3px 12px #aaa;
+}
+
+#main-text {
+  color: #a03455;
+  font-family: "Cinzel", serif;
+  font-size: 7vw;
+}
+
+#footer-link {
+  font-size: 6px;
+  color: #d4a95d;
+}
