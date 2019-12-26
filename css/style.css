@@ -18,7 +18,13 @@ body {
   font-size: 6vw;
 }
 
-#newsletter-text {
+.sub-header {
+  color: #a03455;
+  font-family: "Cinzel", serif;
+  font-size: 5vw;
+}
+
+#newsletter-container {
   color: #fefdf8;
   background-color: #2c635b;
   font-family: "Amiri", serif;
@@ -31,7 +37,38 @@ body {
   height: auto;
 }
 
+.middle-border {
+  margin-top: 1.68em;
+  margin-bottom: 1.68em;
+}
+
+#photos-text {
+  font-family: "Amiri", serif;
+  font-size: 1.4em;
+}
+
+#photo-carousel {
+  height: 400px;
+}
+
+.music {
+  font-family: "Amiri", serif;
+  font-size: 1.75em;
+}
+
+footer {
+  background-color: #2c635b;
+  padding-top: 10px;
+}
+
+#footer-text {
+  color: #fefdf8;
+  font-family: "Amiri", serif;
+  font-size: 1.4em;
+}
+
 #footer-link {
   font-size: 6px;
   color: #d4a95d;
+  align-content: center;
 }
